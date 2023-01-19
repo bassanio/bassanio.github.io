@@ -1,19 +1,27 @@
 ## Bassu
 
-More than 12+ years experience on various domains that varies from as software developer to Instructor for the computer Science. I am having very strong system programming experience. I am currenlty working computer scientist in the Center for Genomics and Systems Biology Lab at [NYU Abu Dhabi](https://nyuad.nyu.edu). 
-
-### Previous companies I worked
-
- 
-1. [Qatar univeristy](www.qu.edu.qa) - Reaserach Assistant
-2. [Juniper](https://www.juniper.net) - Junos Kernel Developer
-3. [Netapp](https://www.netapp.com) - Raid developer
-4. [IBM ISL](https://www.ibm.com)- Aix OS devloper
-5. `iCalibrator` - Cooperate traininer
+More than 12+ years experience of experience as bioinformatician in industrial and academic settings of data analysis for first and second-generation technologies and development of web based tools.
 
 
-### System Level Projects that I am currenlty assisting 
+**Data analysis pipelines**
 
-[Building a Real Operating system:](https://www.cs.princeton.edu/courses/archive/fall18/cos318/projects.html) We use code base from Princeton university
+RNA-Seq expression 	Variant calling 	Denovo 	Genome assembly
+Single cell genome 	miRNA	 		Denovo Trans assembly
+Exome Analysis 		Meta-Genomics 		Meta- transcriptomics
+Pathway analysis
 
+**Bioinformatics Tools & Programming**
+STAR 		HISAT 		TopHat2 	Trinity
+SOAP-denovo2 	GATK 		IPA 		JMP-genomics
+Cufflinks 	Cuffdiff 	DeSeq2 		EdgeR
+Samtools 	bowtie2/bwa 	Bioconda 	Bio-conductor
+Sequencher 	Primer3 	QIIME 		Perl
+MySQL 		HTML 		PHP 		R
+
+**Job schedulers &Operating systems**
+SLURM & PBS 	Linux 	MS Windows 	MacOS
+
+**Other Experiences**
+
+De-multiplexing 	Web tools development 	Conducting training
 
